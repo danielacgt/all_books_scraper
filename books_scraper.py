@@ -49,7 +49,7 @@ async def get_all_pages(url:str) -> list:
             num += 1
     return info_pages
     
-
+#comentarioooo
         
 if __name__ == "__main__":
     name_category, link_category = get_categories()[2]
